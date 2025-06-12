@@ -1,4 +1,4 @@
-# todo_app_with_firebase
+# gotask-app
 
 A new Flutter project.
 
