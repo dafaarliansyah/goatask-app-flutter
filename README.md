@@ -45,15 +45,6 @@ GOATask memiliki fungsionalitas utama sebagai berikut:
 
 ---
 
-## 🚀 e. How to Run the Application
-
-### 1. Clone Repository
-```bash
-git clone https://github.com/username/GOATask.git
-cd GOATask
-
----
-
 ## 📱 e. Preview Application
 
 <p align="left">
@@ -61,6 +52,18 @@ cd GOATask
   <img src="https://raw.githubusercontent.com/dafaarliansyah/goatask-app-flutter/main/ss2.png" alt="Register Screen" width="250"/>
   <img src="https://raw.githubusercontent.com/dafaarliansyah/goatask-app-flutter/main/ss3.png" alt="Home Screen" width="250"/>
 </p>
+
+---
+
+## 🚀 f. How to Run the Application
+
+### 1. Clone Repository
+```bash
+git clone https://github.com/username/GOATask.git
+cd GOATask
+
+
+
 
 
 
