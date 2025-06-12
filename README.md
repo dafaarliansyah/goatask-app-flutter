@@ -40,7 +40,7 @@ GOATask memiliki fungsionalitas utama sebagai berikut:
 | **Flutter** | Framework UI berbasis Dart untuk membangun aplikasi mobile cross-platform. |
 | **Firebase Authentication** | Digunakan untuk autentikasi pengguna (login & register). |
 | **Cloud Firestore** | Database NoSQL real-time untuk menyimpan data tugas. |
-| **Provider / Riverpod** | (Opsional) Manajemen state untuk efisiensi data dan UI. |
+| **Provider / Riverpod** | Manajemen state untuk efisiensi data dan UI. |
 | **Google Fonts** | Penggunaan font modern dan konsisten di seluruh tampilan. |
 
 ---
