@@ -41,7 +41,6 @@ GOATask memiliki fungsionalitas utama sebagai berikut:
 | **Firebase Authentication** | Digunakan untuk autentikasi pengguna (login & register). |
 | **Cloud Firestore** | Database NoSQL real-time untuk menyimpan data tugas. |
 | **Provider / Riverpod** | (Opsional) Manajemen state untuk efisiensi data dan UI. |
-| **Lottie** | Animasi responsif untuk peningkatan pengalaman pengguna. |
 | **Google Fonts** | Penggunaan font modern dan konsisten di seluruh tampilan. |
 
 ---
