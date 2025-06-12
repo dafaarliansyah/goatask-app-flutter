@@ -52,4 +52,4 @@ GOATask memiliki fungsionalitas utama sebagai berikut:
 git clone https://github.com/username/GOATask.git
 cd GOATask
 
-![Auth Screen](ss1.png)
+![Auth Screen](https://github.com/dafaarliansyah/goatask-app-flutter/blob/main/ss1.png)
