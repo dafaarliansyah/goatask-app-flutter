@@ -52,6 +52,7 @@ GOATask memiliki fungsionalitas utama sebagai berikut:
 git clone https://github.com/username/GOATask.git
 cd GOATask
 
-### Preview Aplikasi
-![Auth Screen](![image](https://github.com/user-attachments/assets/28c71e4c-d515-44e5-a752-fb5ed4ffe937)
+## Preview Aplikasi
+![Auth Screen](https://github.com/user-attachments/assets/28c71e4c-d515-44e5-a752-fb5ed4ffe937)
+
 
