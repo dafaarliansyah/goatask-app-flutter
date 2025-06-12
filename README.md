@@ -54,7 +54,7 @@ cd GOATask
 
 ---
 
-### Preview Aplikasi
+## 📱 e. Preview Application
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/dafaarliansyah/goatask-app-flutter/main/ss1.png" alt="Auth Screen" width="250"/>
