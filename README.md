@@ -45,6 +45,10 @@ GOATask memiliki fungsionalitas utama sebagai berikut:
 
 ---
 
+### Preview Aplikasi
+
+![Auth Screen](https://raw.githubusercontent.com/dafaarliansyah/goatask-app-flutter/main/ss1.png)
+
 ## 🚀 e. How to Run the Application
 
 ### 1. Clone Repository
