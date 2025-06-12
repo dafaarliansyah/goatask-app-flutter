@@ -51,3 +51,5 @@ GOATask memiliki fungsionalitas utama sebagai berikut:
 ```bash
 git clone https://github.com/username/GOATask.git
 cd GOATask
+
+![Auth Screen](ss1.png)
