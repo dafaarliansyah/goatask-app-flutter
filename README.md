@@ -47,7 +47,7 @@ GOATask memiliki fungsionalitas utama sebagai berikut:
 
 ### Preview Aplikasi
 
-<p align="center">
+<p align="left">
   <img src="https://raw.githubusercontent.com/dafaarliansyah/goatask-app-flutter/main/ss1.png" alt="Auth Screen" width="250"/>
   <img src="https://raw.githubusercontent.com/dafaarliansyah/goatask-app-flutter/main/ss2.png" alt="Register Screen" width="250"/>
   <img src="https://raw.githubusercontent.com/dafaarliansyah/goatask-app-flutter/main/ss3.png" alt="Home Screen" width="250"/>
