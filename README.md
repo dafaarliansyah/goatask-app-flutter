@@ -12,7 +12,7 @@
 ---
 
 ## 🧾 b. Project Title  
-**GOATask – Smart Task Manager with Firebase Integration**
+**GOATask – Atur Harimu, Capai Puncak Terbaikmu**
 
 ---
 
@@ -28,7 +28,7 @@ GOATask memiliki fungsionalitas utama sebagai berikut:
 - ☁️ **Cloud Storage** – Data tersimpan secara real-time di Firebase Firestore, terhubung dengan akun pengguna.
 
 **Fitur tambahan:**
-- 📆 (Opsional) Integrasi Google Calendar untuk penjadwalan tugas.
+- 📆 Integrasi dan terkoneksi dengan Google Calendar untuk penjadwalan tugas.
 - 🎨 UI modern dan responsif, dilengkapi animasi (Lottie) dan form validasi interaktif.
 
 ---
