@@ -48,6 +48,8 @@ GOATask memiliki fungsionalitas utama sebagai berikut:
 ### Preview Aplikasi
 
 ![Auth Screen](https://raw.githubusercontent.com/dafaarliansyah/goatask-app-flutter/main/ss1.png)
+![Home Todo Screen](https://raw.githubusercontent.com/dafaarliansyah/goatask-app-flutter/main/ss2.png)
+![Add Todo Screen](https://raw.githubusercontent.com/dafaarliansyah/goatask-app-flutter/main/ss3.png)
 
 ## 🚀 e. How to Run the Application
 
